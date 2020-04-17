@@ -30,7 +30,7 @@ if ($allNodes) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>WRS Health Test</title>
+    <title>PHP Node Test</title>
     <link rel="stylesheet" href="assets/css/App.css">
 
 </head>
