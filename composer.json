@@ -1,0 +1,17 @@
+{
+    "name": "akositey/php-oop-tree-nodes",
+    "description": "pure php manipulation of a tree node",
+    "authors": [
+        {
+            "name": "Chester Martinez"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
